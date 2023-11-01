@@ -1,0 +1,20 @@
+.td-border {
+    border-color: #e8ecf2 white #e8ecf2 white;
+}
+
+.td-border-left {
+    border-color: #e8ecf2 white #e8ecf2 #e8ecf2;
+}
+
+.td-border-right {
+    border-color: #e8ecf2 #e8ecf2 #e8ecf2 white;
+}
+
+.petro-table-thead {
+    background-color: #e8ecf2;
+}
+
+.action-icon {
+    font-size: 24px;
+    cursor: pointer
+}
