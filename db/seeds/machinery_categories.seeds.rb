@@ -1,0 +1,6 @@
+MachineryCategory.create(id: MachineryCategory::PACKAGING, name: 'Envasadoras')
+MachineryCategory.create(id: MachineryCategory::LABELLED, name: 'Etiquetado')
+MachineryCategory.create(id: MachineryCategory::CAPPERS, name: 'Taponadoras')
+MachineryCategory.create(id: MachineryCategory::CONVEYORS, name: 'Transportadores')
+MachineryCategory.create(id: MachineryCategory::OTHER, name: 'Otros equipos')
+MachineryCategory.create(id: MachineryCategory::COMPLEMENTARY, name: 'Equipo complementario')
